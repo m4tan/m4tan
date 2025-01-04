@@ -6,7 +6,7 @@
 - 👥 I’m looking to contribute on **Discord Bots**.
 
 ## 🛠️ Skills
-- Programming: Python, Lua-U
+- Programming: Python, Roblox Luau
 - Frameworks: Flask, Discord.py, Nextcord
 - Tools: MongoDB<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![Lua](https://img.shields.io/badge/Luau-FF0000.svg?logo=lua&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
