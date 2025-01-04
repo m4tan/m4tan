@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **absolutely nothing**
-- 🌱 I’m learning **Golang**
+- 🌱 I’m learning **Go**
 - 👥 I’m looking to contribute on **Discord Bots**.
 
 ## 🛠️ Skills
