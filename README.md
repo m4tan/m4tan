@@ -15,4 +15,5 @@
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=m4tan&show_icons=true&theme=radical)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=m4tan&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=m4tan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=m4tan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-profile-trophy.vercel.app/?username=m4tan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
