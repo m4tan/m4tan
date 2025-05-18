@@ -1,7 +1,6 @@
 # Hello, I'm Matan 👋
 
 ## 🚀 About Me
-- 📆 I’m 13 years old
 - 🔭 I’m currently working on nothing.
 - 🌱 I’m learning **C++**
 - 👥 I’m looking to contribute on **Discord Bots**.
